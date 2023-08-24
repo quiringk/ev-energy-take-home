@@ -32,7 +32,7 @@ npx expo start
 I considered both map and list views for displaying charging stations. Here are the reasons I chose a map view:
 
 - **Visual Appeal**: Maps offer an intuitive and visually appealing way to find and locate charging stations.
-- **Dynamic Loading**: Dragging the map to different locations automatically triggers the loading of charging stations centered around the new location. This dynamic feature makes the app more interactive and user-centric.
+- **Dynamic Loading**: Dragging the map to different locations automatically triggers the loading of charging stations centered around the new location. I thought this would be cool to show off for this assignment.
 
 ### Future Enhancements
 
