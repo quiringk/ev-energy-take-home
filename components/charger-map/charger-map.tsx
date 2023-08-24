@@ -9,7 +9,6 @@ import LoadingSpinner from "./loading-spinner/loading-spinner";
 
 const API_KEY = "f3b3dcb6-9716-4317-a89e-4608cdfa30c1";
 const API_URL = "https://api.openchargemap.io/v3/poi/";
-
 const PORTLAND_DEFAULT_STARTING_LOCATION: Region = {
   latitude: 45.547079,
   longitude: -122.656841,
