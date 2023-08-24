@@ -14,15 +14,16 @@ To run and test the app locally using Expo, follow these steps:
 - Install [Expo CLI](https://docs.expo.dev/get-started/installation/): `npm install -g expo-cli`
 - For mobile testing, download the Expo Go app from the [iOS App Store](https://apps.apple.com/app/apple-store/id982107779) or the [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www).
 
-### Steps:
+### Setup Steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/quiringk/ev-energy-take-home
-   cd ev-energy-take-home
-   npm install
-   expo start
-   ```
+1. **Clone the Repository and Install Dependencies**:
+
+```bash
+git clone https://github.com/quiringk/ev-energy-take-home
+cd ev-energy-take-home
+npm install
+npx expo start
+```
 
 ## Design Decisions
 
